@@ -1,0 +1,4 @@
+Ivanenko  Ivan  22.7.2003 4,2,3,4,2,3
+Vasylenko Vasyl 14.8.2003 4,4,3,5,3,4
+Romanenko Roman 17.4.2002 4,5,4,5,4,4
+Mykolenko Mykola 20.9.2003 5,4,5,5,4,5
